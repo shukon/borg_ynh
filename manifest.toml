@@ -2,8 +2,8 @@
 
 packaging_format = 2
 
-id = "borg"
-name = "Borg Backup"
+id = "borgfork"
+name = "Borg Backup Fork"
 description.en = "Regularly create deduplicated, encrypted backups sent to another server using Borg"
 description.fr = "Créez régulièrement des sauvegardes dédupliquées et chiffées envoyées sur un autre serveur à l'aide de Borg"
 
